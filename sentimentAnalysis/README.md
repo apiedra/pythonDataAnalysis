@@ -1,11 +1,11 @@
 #instrucciones
-1) install librerias: 
-  pip install pandas
-  pip install tweepy
-  pip install csv
-  pip install numpy
-  pip install re
+1) install librerias: <br/>
+  pip install pandas<br/>
+  pip install tweepy<br/>
+  pip install csv<br/>
+  pip install numpy<br/>
+  pip install re<br/>
 
 
-2) Correr el proyecto.py:
+2) Correr el proyecto.py:<br/>
   python proyecto.py
